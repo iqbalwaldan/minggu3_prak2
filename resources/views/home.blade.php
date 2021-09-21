@@ -68,7 +68,7 @@
 @endsection
 
 @section ('isi_3')
-<p>Kopi arabika merupakan tipe kopi tradisional dengan cita rasa terbaik. Sebagian besar kopi yang ada dibuat dengan menggunakan biji kopi jenis ini. Kopi ini berasal dari Etiopia dan sekarang telah dibudidayakan di berbagai belahan dunia, mulai dari Amerika Latin, Afrika Tengah, Afrika Timur, India, dan Indonesia. Secara umum, kopi ini tumbuh di negara-negara beriklim tropis atau subtropis. Kopi arabika tumbuh pada ketinggian 600–2000 m di atas permukaan laut. Tanaman ini dapat tumbuh hingga 3 meter bila kondisi lingkungannya baik. Suhu tumbuh optimalnya adalah 18-26oC. Biji kopi yang dihasilkan berukuran cukup kecil dan berwarna hijau hingga merah gelap.</p>
+    <p>Kopi arabika merupakan tipe kopi tradisional dengan cita rasa terbaik. Sebagian besar kopi yang ada dibuat dengan menggunakan biji kopi jenis ini. Kopi ini berasal dari Etiopia dan sekarang telah dibudidayakan di berbagai belahan dunia, mulai dari Amerika Latin, Afrika Tengah, Afrika Timur, India, dan Indonesia. Secara umum, kopi ini tumbuh di negara-negara beriklim tropis atau subtropis. Kopi arabika tumbuh pada ketinggian 600–2000 m di atas permukaan laut. Tanaman ini dapat tumbuh hingga 3 meter bila kondisi lingkungannya baik. Suhu tumbuh optimalnya adalah 18-26oC. Biji kopi yang dihasilkan berukuran cukup kecil dan berwarna hijau hingga merah gelap.</p>
 @endsection
 
 <!-- Isi 4 -->
@@ -83,7 +83,7 @@
 @endsection
 
 @section ('isi_4')
-<p>Kopi robusta pertama kali ditemukan di Kongo pada tahun 1898. Kopi robusta dapat dikatakan sebagai kopi kelas 2, karena rasanya yang lebih pahit, sedikit asam, dan mengandung kafeina dalam kadar yang jauh lebih banyak. Selain itu, cakupan daerah tumbuh kopi robusta lebih luas daripada kopi arabika yang harus ditumbuhkan pada ketinggian tertentu. Kopi robusta dapat ditumbuhkan dengan ketinggian 800 m di atas permukaan laut. Selain itu, kopi jenis ini lebih resisten terhadap serangan hama dan penyakit. Hal ini menjadikan kopi robusta lebih murah. Kopi robusta banyak ditumbuhkan di Afrika Barat, Afrika Tengah, Asia Tenggara, dan Amerika Selatan.</p>
+    <p>Kopi robusta pertama kali ditemukan di Kongo pada tahun 1898. Kopi robusta dapat dikatakan sebagai kopi kelas 2, karena rasanya yang lebih pahit, sedikit asam, dan mengandung kafeina dalam kadar yang jauh lebih banyak. Selain itu, cakupan daerah tumbuh kopi robusta lebih luas daripada kopi arabika yang harus ditumbuhkan pada ketinggian tertentu. Kopi robusta dapat ditumbuhkan dengan ketinggian 800 m di atas permukaan laut. Selain itu, kopi jenis ini lebih resisten terhadap serangan hama dan penyakit. Hal ini menjadikan kopi robusta lebih murah. Kopi robusta banyak ditumbuhkan di Afrika Barat, Afrika Tengah, Asia Tenggara, dan Amerika Selatan.</p>
 @endsection
 
 <!-- Isi 5 -->
@@ -98,5 +98,5 @@
 @endsection
 
 @section ('isi_5')
-<p>Jenis kopi yang lain merupakan turunan atau subvarietas dari kopi arabika dan robusta. Biasanya disetiap daerah penghasil kopi memiliki keunikannya masing-masing dan menjadikannya sebagai suatu subvarietas. Salah satu jenis kopi lain yang terkenal adalah kopi luwak asli Indonesia. Kopi luak merupakan kopi dengan harga jual tertinggi di dunia. Proses terbentuknya dan rasanya yang sangat unik menjadi alasan utama tingginya harga jual kopi jenis ini. Pada dasarnya, kopi ini merupakan kopi jenis arabika. Biji kopi ini kemudian dimakan oleh luwak atau sejenis musang. Akan tetapi, tidak semua bagian biji kopi ini dapat dicerna oleh hewan ini. Bagian dalam biji ini kemudian akan keluar bersama kotorannya. Karena telah bertahan lama di dalam saluran pencernaan luak, biji kopi ini telah mengalami fermentasi singkat oleh bakteri alami di dalam perutnya yang memberikan cita rasa tambahan yang unik.</p>
+    <p>Jenis kopi yang lain merupakan turunan atau subvarietas dari kopi arabika dan robusta. Biasanya disetiap daerah penghasil kopi memiliki keunikannya masing-masing dan menjadikannya sebagai suatu subvarietas. Salah satu jenis kopi lain yang terkenal adalah kopi luwak asli Indonesia. Kopi luak merupakan kopi dengan harga jual tertinggi di dunia. Proses terbentuknya dan rasanya yang sangat unik menjadi alasan utama tingginya harga jual kopi jenis ini. Pada dasarnya, kopi ini merupakan kopi jenis arabika. Biji kopi ini kemudian dimakan oleh luwak atau sejenis musang. Akan tetapi, tidak semua bagian biji kopi ini dapat dicerna oleh hewan ini. Bagian dalam biji ini kemudian akan keluar bersama kotorannya. Karena telah bertahan lama di dalam saluran pencernaan luak, biji kopi ini telah mengalami fermentasi singkat oleh bakteri alami di dalam perutnya yang memberikan cita rasa tambahan yang unik.</p>
 @endsection

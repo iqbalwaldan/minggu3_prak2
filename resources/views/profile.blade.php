@@ -2,7 +2,7 @@
 
 @section ('title','Profile')
 
-@section ('deskripsi','adalah tempat dimana saya menampilkan data diri saya mulai dari Tanggal Lahir, Alamat, No Telfon, Riwayat Pendidikan, dan masih banyak lagi.')
+@section ('deskripsi','adalah tempat dimana saya menampilkan data diri saya mulai dari Tanggal Lahir, Alamat, Riwayat Pendidikan, dan masih banyak lagi.')
 
 @section ('aktif')
     <li><a href="http://127.0.0.1:8000/home">Home</a></li>
@@ -89,7 +89,7 @@
 @endsection
 
 @section ('isi_3')
-<p>Saya bersekolah di SD Negeri Demangan 1 Bangkalan pada umur 7 tahun atau tepatnya pada tahun 2008 dan lulus pada tahun 2014.</p>
+    <p>Saya bersekolah di SD Negeri Demangan 1 Bangkalan pada umur 7 tahun atau tepatnya pada tahun 2008 dan lulus pada tahun 2014.</p>
 @endsection
 
 <!-- Isi 4 -->
@@ -104,7 +104,7 @@
 @endsection
 
 @section ('isi_4')
-<p>Saya bersekolah di SMP Negeri 1 Bangkalan pada umur 13 tahun atau tepatnya pada tahun 2014 dan lulus pada tahun 2017.</p>
+    <p>Saya bersekolah di SMP Negeri 1 Bangkalan pada umur 13 tahun atau tepatnya pada tahun 2014 dan lulus pada tahun 2017.</p>
 @endsection
 
 <!-- Isi 5 -->
@@ -119,5 +119,5 @@
 @endsection
 
 @section ('isi_5')
-<p>Saya bersekolah di SMP Negeri 1 Bangkalan pada umur 16 tahun atau tepatnya pada tahun 2017 dan lulus pada tahun 2020.</p>
+    <p>Saya bersekolah di SMP Negeri 1 Bangkalan pada umur 16 tahun atau tepatnya pada tahun 2017 dan lulus pada tahun 2020.</p>
 @endsection
