@@ -70,7 +70,111 @@ http://www.templatemo.com/tm-466-cafe-house
     </section>
     <div class="tm-main-section light-gray-bg">
       <div class="container" id="main">
-        @yield('isi')
+        
+        <section class="tm-section row">
+            <div class="col-lg-9 col-md-9 col-sm-8">
+                <h2 class="tm-section-header gold-text tm-handwriting-font">@yield('judul')</h2>
+                <h2>@yield('sub_judul')</h2>
+                <p class="tm-welcome-description">@yield('isi')</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-4 tm-welcome-img-container">
+                <div class="inline-block shadow-img">
+                @yield('img')  
+                </div>              
+            </div>            
+        </section>
+        
+        <section class="tm-section tm-section-margin-bottom-0 row">
+          <div class="col-lg-12 tm-section-header-container">
+            <h2 class="tm-section-header gold-text tm-handwriting-font">@yield('img_2') @yield('judul_2')</h2>
+            <div class="tm-hr-container"><hr class="tm-hr"></div>
+          </div>
+          <div class="col-lg-12 tm-popular-items-container">
+            <div class="tm-popular-item">
+              @yield('img_2-1')
+              <div class="tm-popular-item-description">
+                @yield('isi_2-1')
+                <div class="order-now-container">
+                <a href="#arabika" class="order-now-link tm-handwriting-font">More Info</a>
+              </div>
+            </div>              
+          </div>
+          <div class="tm-popular-item">
+            @yield('img_2-2')
+            <div class="tm-popular-item-description">
+              @yield('isi_2-2')
+              <div class="order-now-container">
+                <a href="#robusta" class="order-now-link tm-handwriting-font">More Info</a>
+              </div>
+            </div>              
+          </div>
+          <div class="tm-popular-item">
+            @yield('img_2-3')
+            <div class="tm-popular-item-description">
+              @yield('isi_2-3')
+              <div class="order-now-container">
+                <a href="#luak" class="order-now-link tm-handwriting-font">More Info</a>
+              </div>
+            </div>              
+          </div>
+        </section>
+        
+        <section class="tm-section">
+            <div class="row" id="arabika">
+                <div class="col-lg-12 tm-section-header-container">
+                    <h2 class="tm-section-header gold-text tm-handwriting-font">@yield('img_3') @yield('judul_3')</h2> 
+                    <div class="tm-hr-container"><hr class="tm-hr"></div> 
+                </div>  
+            </div>          
+            <div class="row">
+                <div class="tm-daily-menu-container margin-top-60">
+                    <div class="col-lg-4 col-md-4">
+                        @yield('img_3-1')
+                    </div>            
+                    <div class="col-lg-8 col-md-8">
+                      @yield('isi_3')
+                    </div>
+                </div>
+            </div>          
+        </section>
+
+        <section class="tm-section">
+            <div class="row" id="robusta">
+                <div class="col-lg-12 tm-section-header-container">
+                    <h2 class="tm-section-header gold-text tm-handwriting-font">@yield('img_4') @yield('judul_4')</h2> 
+                    <div class="tm-hr-container"><hr class="tm-hr"></div> 
+                </div>  
+            </div>          
+            <div class="row">
+                <div class="tm-daily-menu-container margin-top-60">
+                    <div class="col-lg-4 col-md-4">
+                      @yield('img_4-1')     
+                    </div>            
+                    <div class="col-lg-8 col-md-8">
+                      @yield('isi_4')
+                    </div>
+                </div>
+            </div>          
+        </section>
+
+        <section class="tm-section">
+            <div class="row" id="luak">
+                <div class="col-lg-12 tm-section-header-container">
+                    <h2 class="tm-section-header gold-text tm-handwriting-font">@yield('img_5') @yield('judul_5')</h2> 
+                    <div class="tm-hr-container"><hr class="tm-hr"></div> 
+                </div>  
+            </div>          
+            <div class="row">
+                <div class="tm-daily-menu-container margin-top-60">
+                    <div class="col-lg-4 col-md-4">
+                      @yield('img_5-1')     
+                    </div>            
+                    <div class="col-lg-8 col-md-8">
+                      @yield('isi_5')
+                    </div>
+                </div>
+            </div>          
+        </section>
       </div>
     </div> 
     <footer>
@@ -80,24 +184,19 @@ http://www.templatemo.com/tm-466-cafe-house
             <nav class="col-lg-3 col-md-3 tm-footer-nav tm-footer-div">
               <h3 class="tm-footer-div-title">Main Menu</h3>
               <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About Us</a></li>
+                <li><a href="http://127.0.0.1:8000/home">Home</a></li>
+                <li><a href="http://127.0.0.1:8000/profile">About Us</a></li>
               </ul>
             </nav>
-            <div class="col-lg-5 col-md-5 tm-footer-div">
-              <h3 class="tm-footer-div-title">About Us</h3>
-              <p class="margin-top-15">Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.</p>
-              <p class="margin-top-15">Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus.</p>
-            </div>
             <div class="col-lg-4 col-md-4 tm-footer-div">
               <h3 class="tm-footer-div-title">Get Social</h3>
               <p>Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante.</p>
               <div class="tm-social-icons-container">
-                <a href="#" class="tm-social-icon"><i class="fa fa-facebook"></i></a>
-                <a href="#" class="tm-social-icon"><i class="fa fa-twitter"></i></a>
-                <a href="#" class="tm-social-icon"><i class="fa fa-linkedin"></i></a>
-                <a href="#" class="tm-social-icon"><i class="fa fa-youtube"></i></a>
-                <a href="#" class="tm-social-icon"><i class="fa fa-behance"></i></a>
+                <a href="https://www.instagram.com/waldan__/" class="tm-social-icon"><i class="fa fa-instagram"></i></a>
+                <a href="mailto:iqbalwaldan0510@gmail.com" class="tm-social-icon"><i class="fa fa-google"></i></a>
+                <a href="https://twitter.com/Daanot" class="tm-social-icon"><i class="fa fa-twitter"></i></a>
+                <a href="https://web.facebook.com/iqbalwaldan.official/" class="tm-social-icon"><i class="fa fa-facebook"></i></a>
+                <a href="https://github.com/iqbalwaldan" class="tm-social-icon"><i class="fa fa-github"></i></a>
               </div>
             </div>
           </div>          
@@ -106,7 +205,7 @@ http://www.templatemo.com/tm-466-cafe-house
       <div>
         <div class="container">
           <div class="row tm-copyright">
-           <p class="col-lg-12 small copyright-text text-center">Copyright &copy; 2084 Your Cafe House</p>
+           <p class="col-lg-12 small copyright-text text-center">Copyright &copy; 2021 Moh. Iqbal Waldan</p>
          </div>  
        </div>
      </div>
